@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08b5801e-1cf4-40af-be2c-157db5f73295" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/setup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mega_loto.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mega_loto/drawing.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mega_loto/version.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mega_loto.gemspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/drawing_spec.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mega_loto.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/mega_loto.gemspec" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mega_loto.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+            <state relative-caret-position="405">
+              <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -177,6 +165,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -372,14 +361,11 @@
       <workItem from="1592275326322" duration="880000" />
       <workItem from="1592276275232" duration="548000" />
       <workItem from="1592276900142" duration="1252000" />
-      <workItem from="1592278219278" duration="3070000" />
+      <workItem from="1592278219278" duration="3646000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Run_spec_'drawing_spec'__mega_loto - 2020.06.16 at 11h 41m 04s.xml">
-      <configuration name="Run spec 'drawing_spec': mega_loto" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
     <history-entry file="Drawing#draw_each_element_is_an_integer__mega_loto - 2020.06.16 at 11h 42m 30s.xml">
       <configuration name="Drawing#draw each element is an integer: mega_loto" configurationId="RSpecRunConfigurationType" />
     </history-entry>
@@ -407,15 +393,18 @@
     <history-entry file="Run_spec_'drawing_spec'__mega_loto - 2020.06.16 at 14h 09m 08s.xml">
       <configuration name="Run spec 'drawing_spec': mega_loto" configurationId="RSpecRunConfigurationType" />
     </history-entry>
+    <history-entry file="Run_spec_'drawing_spec'__mega_loto - 2020.06.16 at 14h 19m 31s.xml">
+      <configuration name="Run spec 'drawing_spec': mega_loto" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5750000" />
+    <option name="totallyTimeSpent" value="6326000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-79" y="55" width="1400" height="1000" extended-state="0" />
+    <frame x="11" y="47" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26067746" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26067746" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -429,7 +418,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50073636" side_tool="true" weight="0.32929516" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32929516" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32929516" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -493,8 +482,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mega_loto.gemspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        <state relative-caret-position="405">
+          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
         </state>
       </provider>
     </entry>
