@@ -7,8 +7,8 @@ module MegaLoto
       it "returns an array" do
         expect(draw).to be_a(Array)
       end
-      it "returns an array with 5 elements" do
-        expect(draw.size).to eq(5)
+      it "returns an array with 6 elements" do
+        expect(draw.size).to eq(6)
       end
       it "each element is an integer" do
         draw.each do |drawing|

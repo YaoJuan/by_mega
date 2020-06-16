@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08b5801e-1cf4-40af-be2c-157db5f73295" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/mega_loto.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/mega_loto.gemspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mega_loto/drawing.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mega_loto/drawing.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mega_loto/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mega_loto/version.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/drawing_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/drawing_spec.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +26,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/drawing_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="120">
+              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -33,22 +35,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/mega_loto/drawing.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="60">
+              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/mega_loto/version.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/mega_loto/version.rb">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mega_loto.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+            <state relative-caret-position="255">
+              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -99,9 +105,10 @@
         <option value="$PROJECT_DIR$/spec/spec_helper.rb" />
         <option value="$PROJECT_DIR$/Rakefile" />
         <option value="$PROJECT_DIR$/lib/mega_loto.rb" />
+        <option value="$PROJECT_DIR$/mega_loto.gemspec" />
         <option value="$PROJECT_DIR$/spec/drawing_spec.rb" />
         <option value="$PROJECT_DIR$/lib/mega_loto/drawing.rb" />
-        <option value="$PROJECT_DIR$/mega_loto.gemspec" />
+        <option value="$PROJECT_DIR$/lib/mega_loto/version.rb" />
       </list>
     </option>
   </component>
@@ -361,17 +368,11 @@
       <workItem from="1592275326322" duration="880000" />
       <workItem from="1592276275232" duration="548000" />
       <workItem from="1592276900142" duration="1252000" />
-      <workItem from="1592278219278" duration="5089000" />
+      <workItem from="1592278219278" duration="6199000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Drawing#draw_each_element_is_an_integer__mega_loto - 2020.06.16 at 11h 42m 30s.xml">
-      <configuration name="Drawing#draw each element is an integer: mega_loto" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Run_spec_'drawing_spec'__mega_loto - 2020.06.16 at 11h 44m 04s.xml">
-      <configuration name="Run spec 'drawing_spec': mega_loto" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
     <history-entry file="Run_spec_'drawing_spec'__mega_loto - 2020.06.16 at 11h 45m 59s.xml">
       <configuration name="Run spec 'drawing_spec': mega_loto" configurationId="RSpecRunConfigurationType" />
     </history-entry>
@@ -396,20 +397,26 @@
     <history-entry file="Run_spec_'drawing_spec'__mega_loto - 2020.06.16 at 14h 19m 31s.xml">
       <configuration name="Run spec 'drawing_spec': mega_loto" configurationId="RSpecRunConfigurationType" />
     </history-entry>
+    <history-entry file="Run_spec_'drawing_spec'__mega_loto - 2020.06.16 at 15h 19m 24s.xml">
+      <configuration name="Run spec 'drawing_spec': mega_loto" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_spec_'drawing_spec'__mega_loto - 2020.06.16 at 15h 19m 31s.xml">
+      <configuration name="Run spec 'drawing_spec': mega_loto" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7769000" />
+    <option name="totallyTimeSpent" value="8879000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="11" y="47" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26067746" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26067746" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992636" weight="0.32929516" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992636" visible="true" weight="0.32929516" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -418,7 +425,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50073636" side_tool="true" weight="0.32929516" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32929516" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32929516" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -430,7 +437,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/mega_loto@All_tests_in_spec__mega_loto.rcov" NAME="All tests in spec: mega_loto Coverage Results" MODIFIED="1592278189785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="mega_loto" />
-    <SUITE FILE_PATH="coverage/mega_loto@Run_spec__drawing_spec___mega_loto.rcov" NAME="Run spec 'drawing_spec': mega_loto Coverage Results" MODIFIED="1592288370886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="mega_loto" />
+    <SUITE FILE_PATH="coverage/mega_loto@Run_spec__drawing_spec___mega_loto.rcov" NAME="Run spec 'drawing_spec': mega_loto Coverage Results" MODIFIED="1592291970596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="mega_loto" />
     <SUITE FILE_PATH="coverage/mega_loto@Drawing_draw_each_element_is_an_integer__mega_loto.rcov" NAME="Drawing#draw each element is an integer: mega_loto Coverage Results" MODIFIED="1592278949995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="mega_loto" />
     <SUITE FILE_PATH="coverage/mega_loto@Drawing_draw_each_element_is_less_than_60__mega_loto.rcov" NAME="Drawing#draw each element is less than 60: mega_loto Coverage Results" MODIFIED="1592279507808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="mega_loto" />
   </component>
@@ -449,27 +456,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/mega_loto/version.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
           <caret line="69" column="23" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/drawing_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/mega_loto/drawing.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -482,8 +472,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mega_loto.gemspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        <state relative-caret-position="255">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/drawing_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/mega_loto/drawing.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/mega_loto/version.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
         </state>
       </provider>
     </entry>

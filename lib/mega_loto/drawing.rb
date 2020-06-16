@@ -2,7 +2,7 @@
 module MegaLoto
   class Drawing
     def draw
-      5.times.map { single_row }
+      6.times.map { single_row }
     end
 
     private
